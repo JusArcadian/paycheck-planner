@@ -1,0 +1,56 @@
+{
+  "_readme": "Edit these words, then run: python tools/make_listing.py   (add --ai to also get AI-written variations)",
+  "main_keyword": "Budget Spreadsheet",
+  "title_keywords": [
+    "Paycheck Budget Planner",
+    "Google Sheets & Excel",
+    "Custom 50/30/20",
+    "Tax & Inflation Calculator",
+    "Student Budget",
+    "First Job"
+  ],
+  "tags": [
+    "budget spreadsheet",
+    "paycheck budget",
+    "google sheets budget",
+    "excel budget",
+    "student budget",
+    "50 30 20 budget",
+    "budget planner",
+    "biweekly budget",
+    "first job budget",
+    "budget template",
+    "expense tracker",
+    "savings tracker",
+    "college budget"
+  ],
+  "features": [
+    "Safe to spend: how much you can spend until your next payday after bills, plus a 'Can I afford it?' check",
+    "Paydays done right: weekly, every 2 weeks, the 15th & 30th, monthly, weekends, bank holidays and early-pay banks",
+    "A budget check on every purchase, with overspending alerts (optional morning email)",
+    "Bills with due dates, payment arrangements and yearly costs, so nothing sneaks up on you",
+    "Your own budget groups and %: pick a plan (50/30/20, 70/20/10...) or type your own",
+    "REAL take-home pay with built-in 2026 US tax estimates (or your own rate) and inflation built in",
+    "Savings goals, a 2026-2028 savings scorecard, savings/investing accounts, debt payoff planner and net worth",
+    "Phone view tab, a plain-English How to use guide, Google Sheets AND Excel, 3 color themes"
+  ],
+  "whats_included": [
+    "Google Sheets copy link (inside the PDF)",
+    "Excel .xlsx files in Sage, Midnight and Blush themes (clean or bold look)",
+    "Quick-start guide PDF"
+  ],
+  "faq": [
+    [
+      "Do I need Excel?",
+      "No. The free Google Sheets version works in any browser and on your phone."
+    ],
+    [
+      "Is this tax advice?",
+      "No. The tax numbers are estimates to help you budget. Your pay stub is the final word."
+    ],
+    [
+      "Can I change the categories?",
+      "Yes. Rename your groups (up to 6) and categories (up to 30), and set any percentages you want."
+    ]
+  ]
+}

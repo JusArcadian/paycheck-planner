@@ -1,0 +1,33 @@
+# .gitignore — files Git must NEVER save or upload to GitHub.
+# Rule: comments go on their OWN line. "folder/  # comment" on one line silently breaks the rule.
+
+# --- Secrets (keys and passwords) ---
+.env
+delivery/.env
+delivery/google_credentials.json
+delivery/google_token.json
+*credentials*.json
+*token*.json
+
+# --- Private data ---
+# your real budget: never upload
+reference/
+# buyer emails
+delivery/sales_log.csv
+
+# --- Rebuildable / big stuff ---
+.venv/
+__pycache__/
+*.pyc
+# rebuild anytime with build_template.py
+output/
+# Git IS your history now; keep zips on your PC only
+backups/
+
+# --- Editor settings ---
+.idea/
+.vscode/
+
+# --- Windows junk ---
+Thumbs.db
+desktop.ini
